@@ -1,0 +1,8 @@
+{
+  "name": "SchoolFam",
+  "description": "A comprehensive AI-powered parent-school communication platform bridging the gap between classroom and home.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
